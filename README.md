@@ -14,3 +14,4 @@
 
 - [Nanoneuro Systems](https://www.nanoneuro.systems/)
 - [My Blog](https://blog.maxxyung.com)
+- [My Second Brain](https://brain.maxxyung.com)
